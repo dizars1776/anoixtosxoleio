@@ -1,6 +1,6 @@
 # "AnoixtoSxoleio" Minimal web-based platform for cooperation between school-students-family.
 
-[Demo](coming soon)
+(Demo coming soon)
 
 ## License
 
