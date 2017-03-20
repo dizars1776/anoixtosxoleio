@@ -1,4 +1,4 @@
-# "AnoixtoSxoleio" Minimal web-based back-end platform for cooperation between school-students-family.
+# "AnoixtoSxoleio" Minimal back-end platform for cooperation between school-students-family.
 
 (Demo coming soon)
 
